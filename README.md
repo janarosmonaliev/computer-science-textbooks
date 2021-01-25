@@ -1,16 +1,16 @@
 # Textbooks for Computer Science Courses
 
-This is a crowd-sourced database of required textbooks for CSE classes at SUNY Korea. Most of the textbooks were downloaded at [SBU Textbook PDF Masterlist](https://sbutextbook.github.io/#CSE).
+This is a crowd-sourced database of required textbooks for CSE classes at SUNY Korea. Most of the textbooks were downloaded from [SBU Textbook PDF Masterlist](https://sbutextbook.github.io/#CSE).
 
-## :books: Downloading
+## :books: Downloading 
 
-You can download materials by cloning the repository
+:warning: It is not advised to use git to fetch the entire repository
 
-```bash
-git clone https://github.com/computing-society/computer-science-textbooks.git
+```diff
+- git clone https://github.com/computing-society/computer-science-textbooks.git
 ```
 
-Otherwise, you can download the packaged zip file under `Releases` tab.
+Instead, download the packaged zip file under `Releases` tab.
 
 ## Contributing
 
